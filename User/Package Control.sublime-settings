@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Color Highlighter",
+		"CSScomb",
+		"EJS 2",
+		"Emmet",
+		"Express Completion",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"jsfmt",
+		"Node Completions",
+		"Nodejs",
+		"Package Control",
+		"PHPIntel",
+		"React Development Snippets",
+		"React Native Autocomplete",
+		"ReactJS",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"Scheme",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}

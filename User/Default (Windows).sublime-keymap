@@ -1,0 +1,11 @@
+[
+	{"keys": ["ctrl+b"],"command": "open_in_browser"},
+	{ "keys": ["ctrl+shift+s"], "command": "auto_save" },
+	{ "keys": ["alt+b"], "command": "markdown_preview", "args": { "target": "browser"} },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+."], "command": "delete_trailing_spaces" },
+	{"keys":["ctrl+q"],"command":"format_javascript"},
+	{ "keys": ["ctrl+alt+\\"], "command": "open_terminal" },
+	{ "keys": ["ctrl+shift+alt+\\"], "command": "open_terminal_project_folder" }
+]
+
